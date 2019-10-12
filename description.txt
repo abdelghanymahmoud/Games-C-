@@ -1,0 +1,6 @@
+simple game played with arrows to move
+and space to fire towards the enemies
+
+
+code with opengl library
+so you have to add opengl library first
